@@ -1,0 +1,6 @@
+.bg{
+  width: 100px;
+  height: 100px;
+  background: url('../public/vuex.png') no-repeat;
+  background-size: contain;
+}
